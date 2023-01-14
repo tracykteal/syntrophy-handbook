@@ -1,0 +1,31 @@
+# Gratitude Exchange
+
+Often we don\'t have the opportunity to hear what other people are grateful for about us, or to take the time to let someone know and it\'s a nice end of year reflection. So, that\'s the idea of this \'gratitude exchange\'.
+
+## Instructions
+
+-   Within a team, list all the people on the team
+
+-   Randomly assign each person on the team another person on the team
+
+-   For the person who you get, let\'s assume that Alice gets Bob, Alice puts together something about the things they and others are grateful for, for Bob
+
+-   Alice can gather information in a few different ways
+
+    -   Writing down what they\'re grateful for about Bob
+
+    -   Noticing what other people thank Bob for
+
+    -   Looking at github issues or other communication channels to see what people appreciate about Bob
+
+    -   Think about things not just that Bob does, like write code, but also the quieter thing, like mentoring someone on a team, elevating other people\'s ideas in team meeting, sending get well notes when someone is sick, their excellent use of gifs that make people happy
+
+    -   Think about things that are good about how they work too that are healthy and that they model well - they take time away to go camping, spend time on woodworking
+
+    -   You might have other ideas too!
+
+-   Alice puts together this information in some way for Bob
+
+    -   It could be a Google doc, R code, a Miro board, an illustration, however you want to share the gratitude
+
+-   Then in a team meeting, everyone shares their gratitude with the other people, just delivers it privately, and in the meeting says one or two sentences about what they\'re grateful for, for that person

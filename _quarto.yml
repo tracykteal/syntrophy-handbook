@@ -1,0 +1,26 @@
+project:
+  type: book
+
+book:
+  title: "syntrophy"
+  author: "Tracy Teal"
+  date: "1/13/2023"
+  chapters:
+    - index.qmd
+    - part: intro.qmd
+      chapters:
+        - summary.qmd
+    - part: team-activities.qmd
+      chapters: 
+        - gratitude-exchange.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
