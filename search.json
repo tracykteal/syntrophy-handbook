@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "syntrophy",
+    "section": "",
+    "text": "Data syntrophy handbook\nThis is a handbook.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "1  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "team-activities.html",
+    "href": "team-activities.html",
+    "title": "Team Activities",
+    "section": "",
+    "text": "Sometimes you want to do team activities, these are a few ideas."
+  },
+  {
+    "objectID": "gratitude-exchange.html#instructions",
+    "href": "gratitude-exchange.html#instructions",
+    "title": "2  Gratitude Exchange",
+    "section": "2.1 Instructions",
+    "text": "2.1 Instructions\n\nWithin a team, list all the people on the team\nRandomly assign each person on the team another person on the team\nFor the person who you get, let's assume that Alice gets Bob, Alice puts together something about the things they and others are grateful for, for Bob\nAlice can gather information in a few different ways\n\nWriting down what they're grateful for about Bob\nNoticing what other people thank Bob for\nLooking at github issues or other communication channels to see what people appreciate about Bob\nThink about things not just that Bob does, like write code, but also the quieter thing, like mentoring someone on a team, elevating other people's ideas in team meeting, sending get well notes when someone is sick, their excellent use of gifs that make people happy\nThink about things that are good about how they work too that are healthy and that they model well - they take time away to go camping, spend time on woodworking\nYou might have other ideas too!\n\nAlice puts together this information in some way for Bob\n\nIt could be a Google doc, R code, a Miro board, an illustration, however you want to share the gratitude\n\nThen in a team meeting, everyone shares their gratitude with the other people, just delivers it privately, and in the meeting says one or two sentences about what they're grateful for, for that person"
+  }
+]
